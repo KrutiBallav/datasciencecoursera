@@ -1,4 +1,4 @@
-🎓 Coursera Assignment - [Course Name] 🎓
+🎓 Coursera Assignment - datasciencecoursera 🎓
 Welcome to my awesome Coursera assignment repository! 🎉
 
 🚀 About this Repo
